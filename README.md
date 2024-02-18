@@ -80,6 +80,18 @@ Powershell Script:  <br/>
 <img src="https://i.imgur.com/LQKNCya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Script running to gain geo data from attackers:  <br/>
+<img src="https://i.imgur.com/LEDdKcp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+creating custom log by importing the failed_rdp log file from VM:  <br/>
+<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Quick look at the security events from log analytics table:   <br/>
+<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Enable VM gathering logs:  <br/>
 <img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
