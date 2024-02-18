@@ -20,12 +20,12 @@ I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Azure Setup: <br/>
+<img src="https://i.imgur.com/VhqSfrQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting Up NIC or Firewall:  <br/>
+<img src="https://i.imgur.com/p7R69ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
