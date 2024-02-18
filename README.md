@@ -46,6 +46,54 @@ Enable VM gathering logs:  <br/>
 <br />
 Log into VM with remote desktop:  <br/>
 <img src="https://i.imgur.com/mUHTP4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Logging in:  <br/>
+<img src="https://i.imgur.com/TSJ4IMY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Event Manager Login Failures:  <br/>
+<img src="https://i.imgur.com/vCMZAea.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+IP geolocation API:  <br/>
+<img src="https://i.imgur.com/QzfTYuL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ping timing out because of firewall:  <br/>
+<img src="https://i.imgur.com/Q4HgP3c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Firewall on VM on:  <br/>
+<img src="https://i.imgur.com/TbPnZX4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Firewall on VM off:  <br/>
+<img src="https://i.imgur.com/GgSXl8n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ping start to work with VM firewall is off and echo requests allowed:  <br/>
+<img src="https://i.imgur.com/Ffy6ZxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Powershell Script:  <br/>
+<img src="https://i.imgur.com/LQKNCya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enable VM gathering logs:  <br/>
+<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enable VM gathering logs:  <br/>
+<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enable VM gathering logs:  <br/>
+<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Log into VM with remote desktop:  <br/>
+<img src="https://i.imgur.com/mUHTP4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
