@@ -85,15 +85,35 @@ Script running to gain geo data from attackers:  <br/>
 <br />
 <br />
 creating custom log by importing the failed_rdp log file from VM:  <br/>
-<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gFqTKT8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Quick look at the security events from log analytics table:   <br/>
+<img src="https://i.imgur.com/mrmP8Qw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Logs coming through:  <br/>
+<img src="https://i.imgur.com/czxVTQh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Extract Rawdata to split table in Log Analytic using KQL query:  <br/>
+<img src="https://i.imgur.com/Tgls7Ew.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Overview, No events and alerts:  <br/>
 <img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enable VM gathering logs:  <br/>
-<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Before plotting on the map:  <br/>
+<img src="https://i.imgur.com/rHd49G8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Map is plotted (Change in log query because the first one had issues plotting with logitude and latitude):  <br/>
+<img src="https://i.imgur.com/P2Ez2u7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Full world map (Big red thing is just sample attempts from the log data) :  <br/>
+<img src="https://i.imgur.com/0NhG0B0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enable VM gathering logs:  <br/>
