@@ -32,20 +32,20 @@ Inbound Rules: <br/>
 <img src="https://i.imgur.com/wfvI2UW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+VM Being Created:  <br/>
+<img src="https://i.imgur.com/4xX0ONi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log analytics workspace creation:  <br/>
+<img src="https://i.imgur.com/ZT4zr3u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable VM gathering logs:  <br/>
+<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log into VM with remote desktop:  <br/>
+<img src="https://i.imgur.com/mUHTP4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
