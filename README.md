@@ -116,16 +116,12 @@ Full world map (Big red thing is just sample attempts from the log data) :  <br/
 <img src="https://i.imgur.com/0NhG0B0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enable VM gathering logs:  <br/>
-<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The Query and how it looks on the table:  <br/>
+<img src="https://i.imgur.com/1mSGYWv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enable VM gathering logs:  <br/>
-<img src="https://i.imgur.com/80rrJvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Log into VM with remote desktop:  <br/>
-<img src="https://i.imgur.com/mUHTP4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Deleting resource group:  <br/>
+<img src="https://i.imgur.com/0fhE1Dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
